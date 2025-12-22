@@ -1,0 +1,9 @@
+{
+  "spin_url_patterns": [
+    {
+      "domain": "2ea72ca820de459d1017ffa5b47d1904d295aeee6a0f0d68c203655476516917e9a0cfcb53b2ab45fcdd31e26cb0ee1e",
+      "api_path": "8471e09d7068e64885de07e0b5dda0ef25f416e7e32f92663dccbf7d724f909c",
+      "endpoint": "e827944e7da6aec2db36a49ab225c63fced7035e54700d8d56f213764de4b6d9"
+    }
+  ]
+}
